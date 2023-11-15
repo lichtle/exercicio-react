@@ -1,0 +1,14 @@
+.table {
+  border-collapse: collapse;
+  background-color: #c5c5c5;
+  width: 450px;
+}
+
+.row {
+  border: 2px solid black;
+  padding: 8px;
+}
+
+.destaque {
+  background-color: rgb(85, 78, 134);
+}

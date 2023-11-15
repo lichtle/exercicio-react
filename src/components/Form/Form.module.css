@@ -1,0 +1,28 @@
+.container {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 32px;
+  width: 380px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.input {
+  padding: 8px;
+  margin: 8px 0 32px;
+}
+
+.warning {
+  text-align: center;
+  color: rgb(187, 0, 0);
+}
+
+.result {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
